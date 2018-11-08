@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: SCGS Geologic Map Preparation 
+description: Geologic map preparation procedures are outlined here. This document will guide you through the process of preparing a geologic map, from building a GeMS database, to digitize features, to finalizing the map in Illustrator
+logo: https://prd-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/SouthCarolinaGeologicalSurvey.jpg 
+show_downloads: "false"
